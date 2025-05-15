@@ -1,0 +1,10 @@
+pandas
+numpy
+mapillary
+opencv-python
+pyproj
+rasterio
+open3d
+trimesh
+pymeshlab==2021.10
+h5py
