@@ -1,6 +1,9 @@
 # CVH3D: Cross-View Helsinki 3D Data-Set
 
-This repository provides information about triplets of Ground Image, Aerial Image and 3D Point Cloud from the CVH3D dataset.
+This repository provides information about triplets of Ground Image, Aerial Image and 3D Point Cloud from the CVH3D dataset from the paper: 
+```text
+N.Khan, R. Rodrigues and M. Tani, "CVH3D: A Multimodal Approach to Cross-View Image Geo-Localization with 3D Point Clouds," IGARSS 2025 - 2025 IEEE International Geoscience and Remote Sensing Symposium, Brisbane, Australia, 2024
+```
 
 
 | Ground View Image | Aerial View Image | 3D Point Cloud |
